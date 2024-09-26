@@ -24,3 +24,4 @@ function ingresoNumero() {
     alert("El factorial del numero " + num + " es : " + factoriales);
     
 }
+// Función lista para enlazar a html
