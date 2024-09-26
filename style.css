@@ -1,0 +1,20 @@
+header {
+    text-align: center;
+    padding: 50px 0;
+    background-color: black;
+    color: antiquewhite;
+    overflow: hidden;
+    }
+    
+    body {
+    text-align: center;
+    color: antiquewhite;
+    background-color: black
+    }
+    
+    button {
+        color:antiquewhite;
+        background-color: black;
+        border-color: red;
+    }
+    
