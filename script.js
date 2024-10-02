@@ -3,7 +3,7 @@ var prompt = require("prompt-sync")();
 function factorial(n) {
     return (n != 1) ? n * factorial(n - 1) : 1;
 }
-
+// Se crea la función correspondiente
 function ingresoNumero() {
     let num = prompt("Ingresar a continuación un numero para entregar su factorial : ");
 
